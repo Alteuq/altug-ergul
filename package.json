@@ -1,0 +1,29 @@
+{
+  "name": "altug-ergul",
+  "version": "1.0.0",
+  "description": "This is an test project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "altug": "echo 'My Name Is Altug :)'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "packet"
+  ],
+  "author": "Altug Ergul",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.1",
+    "nodemailer": "^6.7.2",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/TheBestDraio/altug-ergul.git"
+  }
+}
